@@ -21,10 +21,3 @@ __pycache__/
 *.pyo
 *.pt
 *.weights
-
-# Generated data (regenerate with run_yolo.py)
-../images/
-../crops/
-public/crops/
-public/images/
-public/predictions.json
